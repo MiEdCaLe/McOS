@@ -1,0 +1,4 @@
+src/kernel/stdio.h(3): Warning! W138: No newline at end of file
+src/kernel/stdint.h(13): Warning! W138: No newline at end of file
+src/kernel/print.h(3): Warning! W138: No newline at end of file
+src/kernel/stdio.c(13): Warning! W138: No newline at end of file
